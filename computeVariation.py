@@ -156,7 +156,7 @@ def getA7ssanBhadLaTaille(initialDate, finalDate, taille):
 
 	return bestStartingIndex+2,multiplicationValue
 
-print(getA7ssanBhadLaTaille("Jan 13 2017", "Jan 14 2017", 40))
+#print(getA7ssanBhadLaTaille("Jan 06 2017", "Jan 07 2017", 10))
 
 #best nbrOfCoins between 20 and 50 in given dates
 
